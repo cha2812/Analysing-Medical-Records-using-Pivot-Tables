@@ -39,6 +39,11 @@ Then, in order to correct data and also make sense, I performed some and applied
      - Click on Blanks
      - On the first highlighted empty cell, enter desired value(s)
      - Then Press Control + Enter
+The cleaned data set can be seen in the files section with the name **medical_students_dataset solved 1.xlsb**.
+After this, I then used Pivot Table to solve and answer the medical questions and problems.
+
+![](medical_records.png)
+
 
 
 
