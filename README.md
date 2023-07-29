@@ -59,3 +59,7 @@ To create a Pivot table,
 4. For the number of students who smoke and those who don't smoke, drag the smoking into Rows and then gender into the Values.
 5. For the number of students who have diabetes and those who don't have diabetes, drag the diabetes into Rows and then gender into the Values.
 
+
+## Conclusion
+Carrying out this analysis was made so easy with the use of Pivot Table. From 
+
