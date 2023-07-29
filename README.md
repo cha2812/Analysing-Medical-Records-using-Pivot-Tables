@@ -45,5 +45,14 @@ After this, I then used Pivot Table to solve and answer the medical questions an
 ![](medical_records.png)
 
 
+To create a Pivot table, 
+- We select the whole table
+- Then click on the Insert Tab
+- Select Pivot Table
+- Choose a new worksheet
+- Then, it takes you to a new worksheet.
 
+
+1. For the first problem, to find average values for males and females with respect to their age, BMI, temperature, heart rate, blood pressure and cholesterol, You drag the Gender into Rows and then drag (age, BMI, temperature, heart rate, blood pressure and cholesterol) into Values.
+2. For average height and weight for both males and females, 
 
