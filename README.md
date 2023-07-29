@@ -42,6 +42,7 @@ Then, in order to correct data and also make sense, I performed some and applied
 The cleaned data set can be seen in the files section with the name **medical_students_dataset solved 1.xlsb**.
 After this, I then used Pivot Table to solve and answer the medical questions and problems.
 
+
 ![](medical_records.png)
 
 
@@ -61,5 +62,5 @@ To create a Pivot table,
 
 
 ## Conclusion
-This is my fourth data analysis task using data to tell a story. Carrying out this analysis was made so easy with the use of the Pivot Table. As long as you know which field name to put into the Filters, Columns, Rows and Values.
+This is my fourth data analysis task using data to tell a story. Carrying out this analysis was made so easy with the use of the Pivot Table. As long as you know which field name to put into the Filters, Columns, Rows and Values and you put them into the section.
 
