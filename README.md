@@ -23,7 +23,7 @@ To solve and provide solutions to the following problems and questions.
 The original data table provided was incomplete data table because it contained empty cells (rows). The original incomplete data table can be seen under the file section. The file is called **medical_students_dataset.csv**.
 Then, in order to correct data and also make sense, I performed some and applied some data cleaning concepts. 
 1. For the Student ID column, I used the Fill option where I inputted the values to start from 1 - 200,000 as the original table.
-2. For the age, height, weight, BMI, temperature, heart rate, blood pressure, and cholesterol; I used the AVERAGE() function first of all to get the average of them all.
+2. For the age, height, weight, BMI, temperature, heart rate, blood pressure, and cholesterol, I used the AVERAGE() function first of all to get the average of them all.
    - Age =AVERAGE(B2:B200001) = 26
    - Height =AVERAGE(D2:D200001) = 174.9471027
    - Weight =AVERAGE(E2:E200001) = 69.97158509
@@ -32,5 +32,13 @@ Then, in order to correct data and also make sense, I performed some and applied
    - Heart Rate =AVERAGE(I2:I200001) = 80
    - Blood Pressure =AVERAGE(J2:J200001) = 115
    - Cholesterol =AVERAGE(K2:K200001) = 184
- 
+ 3. After getting the average for age, height, weight, BMI, temperature, heart rate, blood pressure, and cholesterol, I used the average value to replace the empty rows in each column
+ 4. To input the average values into the empty rows of the various columns, I did the following
+     - Press Control + G ( for mac users) and F5 (for windows users)
+     - Click on Specials
+     - Click on Blanks
+     - On the first highlighted empty cell, enter desired value(s)
+     - Then Press Control + Enter
+
+
 
