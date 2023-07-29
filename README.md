@@ -24,13 +24,13 @@ The original data table provided was incomplete data table because it contained 
 Then, in order to correct data and also make sense, I performed some and applied some data cleaning concepts. 
 1. For the Student ID column, I used the Fill option where I inputted the values to start from 1 - 200,000 as the original table.
 2. For the age, height, weight, BMI, temperature, heart rate, blood pressure, and cholesterol; I used the AVERAGE() function first of all to get the average of them all.
-   Age =AVERAGE(B2:B200001), to get 26
-   Height =AVERAGE(D2:D200001), to get 174.9471027
-   Weight =AVERAGE(E2:E200001)
-   BMI =AVERAGE(G2:G200001)
-   Temperature =AVERAGE(H2:H200001)
-   Heart Rate =AVERAGE(I2:I200001)
-   Blood Pressure =AVERAGE(J2:J200001)
-   Cholesterol =AVERAGE(K2:K200001)
+   a. Age =AVERAGE(B2:B200001) = 26
+   b. Height =AVERAGE(D2:D200001) = 174.9471027
+   c. Weight =AVERAGE(E2:E200001) = 69.97158509
+   d. BMI =AVERAGE(G2:G200001) = 23.33886936
+   e. Temperature =AVERAGE(H2:H200001) = 98.60094788
+   f. Heart Rate =AVERAGE(I2:I200001) = 80
+   g. Blood Pressure =AVERAGE(J2:J200001) = 115
+   h. Cholesterol =AVERAGE(K2:K200001) = 184
  
 
