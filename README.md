@@ -53,6 +53,9 @@ To create a Pivot table,
 - Then, it takes you to a new worksheet.
 
 
-1. For the first problem, to find average values for males and females with respect to their age, BMI, temperature, heart rate, blood pressure and cholesterol, You drag the Gender into Rows and then drag (age, BMI, temperature, heart rate, blood pressure and cholesterol) into Values.
-2. For average height and weight for both males and females, 
+1. For the first problem, to find average values for males and females with respect to their age, BMI, temperature, heart rate, blood pressure and cholesterol, You drag the Gender into Rows and then drag (age, BMI, temperature, heart rate, blood pressure and cholesterol) into Values. To get the average, right-click on all the columns and change the aggregation from sum to average.
+2. For average height and weight for both males and females, drag the gender into Rows and then height and weight into the Values. To get the average, right-click on all the columns and change the aggregation from sum to average.
+3. For the number of students across the different blood groups, drag the blood groups into Rows and then gender into the Values.
+4. For the number of students who smoke and those who don't smoke, drag the smoking into Rows and then gender into the Values.
+5. For the number of students who have diabetes and those who don't have diabetes, drag the diabetes into Rows and then gender into the Values.
 
