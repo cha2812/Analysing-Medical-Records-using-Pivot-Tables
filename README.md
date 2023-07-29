@@ -43,6 +43,8 @@ The cleaned data set can be seen in the files section with the name **medical_st
 After this, I then used Pivot Table to solve and answer the medical questions and problems.
 
 
+
+
 ![](medical_records.png)
 
 
