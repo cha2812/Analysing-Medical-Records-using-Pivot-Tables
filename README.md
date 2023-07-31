@@ -60,7 +60,7 @@ To create a Pivot table,
 4. For the number of students who smoke and those who don't smoke, drag the smoking into Rows and then gender into the Values.
 5. For the number of students who have diabetes and those who don't have diabetes, drag the diabetes into Rows and then gender into the Values.
 
-The Visuals below show and explain better our findings and solution to the problems 2 - 5 we are trying to solve which is our problem statement 2 - 5.
+The visuals below show and explain better our findings and solution to the problems 2 - 5 we are trying to solve which is our problem statement 2 - 5.
 
 ![](medical_records_visual.png)
 
