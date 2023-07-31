@@ -61,6 +61,8 @@ To create a Pivot table,
 5. For the number of students who have diabetes and those who don't have diabetes, drag the diabetes into Rows and then gender into the Values.
 
 
+![](medical_records_visuals.png)
+
 ## Conclusion
 This is my fourth data analysis task using data to tell a story. Carrying out this analysis was made so easy with the use of the Pivot Table. As long as you know which field name to put into the Filters, Columns, Rows and Values and you put them into the section.
 
