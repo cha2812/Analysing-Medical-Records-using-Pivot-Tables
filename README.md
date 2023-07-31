@@ -62,7 +62,7 @@ To create a Pivot table,
 
 The visuals below show and explain better our findings and solution to the problems 2 - 5 we are trying to solve which is our problem statement 2 - 5.
 
-![](medical_records_visual.png)
+![](medical_records_visuals.png)
 
 
 ## Conclusion
