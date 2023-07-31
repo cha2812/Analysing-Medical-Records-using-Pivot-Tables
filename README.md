@@ -62,7 +62,7 @@ To create a Pivot table,
 
 The Visuals below show and explain better our findings and solution to the problem we are trying to solve.
 
-![](medical_records_visuals.png)
+![](medical_records_visual.png)
 
 
 ## Conclusion
