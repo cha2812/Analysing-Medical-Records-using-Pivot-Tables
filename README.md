@@ -18,6 +18,7 @@ To solve and provide solutions to the following problems and questions.
 4. Use of Average Function
 5. Use of the Go to Special option
 6. Pivot Table
+7. Data Visualization
 
 ## Data Analysis
 The original data table provided was incomplete data table because it contained empty cells (rows). The original incomplete data table can be seen under the file section. The file is called **medical_students_dataset.csv**.
