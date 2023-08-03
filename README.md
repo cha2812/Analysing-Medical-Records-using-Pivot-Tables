@@ -73,7 +73,9 @@ To create a Pivot table,
 
 The visuals below show and explain better our findings and solution to the problems 2 - 5 we are trying to solve which is our problem statement 2 - 5.
 
-![](medical_records_visuals.png)
+The visuals after finding the average height and weight for both genders which is male and female (in 2 decimal places).
+
+![](visual1.png)
 
 
 ## Conclusion
