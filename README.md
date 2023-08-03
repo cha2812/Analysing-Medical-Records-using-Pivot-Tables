@@ -1,7 +1,7 @@
 # Analysing-Medical-Records-using-Pivot-Tables
 ## Introduction
 
-This is my fourth task on data analysis using an Excel spreadsheet. In this analysis, Pivot Tables were used to analyze patients' medical records in a hospital. The data provided was incomplete but had to do some data cleaning to replace and fill up and empty cells in the data. The first table provided was incomplete data with empty cells and can be seen in the file called **medical_students_dataset.csv**. Then I performed some data cleaning in order to replace empty cells with values which can be seen in the file named **medical_students_dataset solved 1.xlsb**.
+This is my fourth task on data analysis using an Excel spreadsheet. In this analysis, Pivot Tables were used to analyze patients' medical records in a hospital. The data provided was incomplete but had to do some data cleaning to replace and fill up and empty cells in the data. The first table provided was incomplete data with empty cells and can be seen in the file called **medical_students_dataset.csv**. Then I performed some data cleaning in order to replace empty cells with values which can be seen in the file named **medical_students_dataset solved.xlsb**.
 
 ## Problem Statement
 To solve and provide solutions to the following problems and questions.
@@ -40,12 +40,8 @@ Then, in order to correct data and also make sense, I performed some and applied
      - Click on Blanks
      - On the first highlighted empty cell, enter desired value(s)
      - Then Press Control + Enter
-The cleaned data set can be seen in the files section with the name **medical_students_dataset solved 1.xlsb**.
+The cleaned data set can be seen in the files section with the name **medical_students_dataset solved.xlsb**.
 After this, I then used Pivot Table to solve and answer the medical questions and problems.
-
-
-![](medical_records.png)
-
 
 To create a Pivot table, 
 - We select the whole table
@@ -56,10 +52,24 @@ To create a Pivot table,
 
 
 1. For the first problem, to find average values for males and females with respect to their age, BMI, temperature, heart rate, blood pressure and cholesterol, You drag the Gender into Rows and then drag (age, BMI, temperature, heart rate, blood pressure and cholesterol) into Values. To get the average, right-click on all the columns and change the aggregation from sum to average.
+
+![](pivot1.png)
+
 2. For average height and weight for both males and females, drag the gender into Rows and then height and weight into the Values. To get the average, right-click on all the columns and change the aggregation from sum to average.
+
+![](pivot2.png)
+
 3. For the number of students across the different blood groups, drag the blood groups into Rows and then gender into the Values.
+
+![](pivot3.png)
+
 4. For the number of students who smoke and those who don't smoke, drag the smoking into Rows and then gender into the Values.
+
+![](pivot4.png)
+
 5. For the number of students who have diabetes and those who don't have diabetes, drag the diabetes into Rows and then gender into the Values.
+
+![](pivot5.png)
 
 The visuals below show and explain better our findings and solution to the problems 2 - 5 we are trying to solve which is our problem statement 2 - 5.
 
