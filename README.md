@@ -28,7 +28,7 @@ Then, in order to correct data and also make sense, I performed some and applied
    - Age =AVERAGE(B2:B200001) = 26
    - Height =AVERAGE(D2:D200001) = 174.9471027
    - Weight =AVERAGE(E2:E200001) = 69.97158509
-   -  BMI =AVERAGE(G2:G200001) = 23.33886936
+   -  BMI =AVERAGE(G2:G200001) = 23.29157355
    - Temperature =AVERAGE(H2:H200001) = 98.60094788
    - Heart Rate =AVERAGE(I2:I200001) = 80
    - Blood Pressure =AVERAGE(J2:J200001) = 115
