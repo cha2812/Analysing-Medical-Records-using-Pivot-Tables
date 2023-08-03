@@ -77,6 +77,17 @@ The visuals after finding the average height and weight for both genders which i
 
 ![](visual1.png)
 
+The visuals for the number of students across the different blood groups.
+
+![](visual2.png)
+
+The visuals for the number of students who smoke and do not smoke.
+
+![](visual3.png)
+
+The visuals for the number of students who have diabetes and those who do not have diabetes.
+
+![](visual4.png)
 
 ## Conclusion
 This is my fourth data analysis task using data to tell a story. Carrying out this analysis was made so easy with the use of the Pivot Table. As long as you know which field name to put into the Filters, Columns, Rows and Values and you put them into the section.
